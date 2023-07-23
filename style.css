@@ -28,7 +28,7 @@ hr {
 /* bubbles */
 
 .top-bubble {
-    width: 50%;
+    width: 60%;
     position: absolute;
     bottom: 300px;
     right: 800px;
@@ -36,10 +36,10 @@ hr {
 }
 
 .bottom-bubble {
-    width: 50%;
+    width: 70%;
     position: absolute;
-    top: 400px;
-    left: 800px;
+    top: 370px;
+    left: 750px;
     z-index: -5;
 }
 
